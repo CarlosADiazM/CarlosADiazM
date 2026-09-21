@@ -13,7 +13,7 @@ Engineering and quantitative professional based in Melbourne, Australia, with a 
 
 ## Current portfolio project
 
-### Market Intelligence Engine
+### [Market Intelligence Engine](https://github.com/CarlosADiazM/market-intelligence-engine)
 
 Python portfolio project focused on market-data processing, API integration, validation, automation and reliable analytical workflows.
 
